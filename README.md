@@ -1,1 +1,1 @@
-# gban-mirai
+# gban-mirai-choru
