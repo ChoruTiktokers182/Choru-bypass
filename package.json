@@ -1,6 +1,6 @@
 {
-	"name": "Chorubot",
-	"version": "9.9.3",
+	"name": "Vegito",
+	"version": "30.0.0",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord don't forget miraiproject And Choru tiktokers.",
 	"main": "mirai.js",
 	"scripts": {
